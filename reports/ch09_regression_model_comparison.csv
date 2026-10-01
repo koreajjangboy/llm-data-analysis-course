@@ -1,0 +1,3 @@
+﻿model,selection_role,train_MAE,test_MAE,test_RMSE,test_R2,MAE_improvement_vs_baseline_pct
+Baseline Mean,baseline,488976.5529,459236.5682,552306.2554,-0.0005,0.0
+Frozen Selected Model,selectedbytrain_cv,206381.3502,433575.5,546066.4684,0.022,5.59

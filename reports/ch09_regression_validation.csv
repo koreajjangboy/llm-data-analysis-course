@@ -1,0 +1,7 @@
+﻿check,value,status
+forbidden_feature_overlap,Overlap rows: 0,PASS
+strict_train_before_test,Train Max (2026-06-02) <= Test Min (2026-06-04),PASS
+selected_model_exists_in_train_cv,CV Report Exists: True,PASS
+final_test_contains_baseline,Baseline Mean In Final: True,PASS
+final_test_contains_frozen_selected_model,Frozen Model In Final: True,PASS
+test_rows_for_r2,Test Rows: 60,PASS

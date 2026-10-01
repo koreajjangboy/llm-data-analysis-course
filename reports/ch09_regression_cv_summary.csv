@@ -1,0 +1,4 @@
+﻿model,cv_MAE_mean,cv_MAE_std,cv_R2_mean,note
+Baseline Mean,453552.159,47282.9677,-0.1844,기준선 (Baseline)
+Linear Regression,680491.627,230696.0215,-13.5476,후보 (탈락)
+Random Forest,588454.0,112535.8504,-5.6033,최종 선정 (Lowest MAE)

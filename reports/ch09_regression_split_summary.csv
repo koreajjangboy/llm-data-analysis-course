@@ -1,0 +1,2 @@
+﻿train_start_date,train_end_date,train_count,test_start_date,test_end_date,test_count,date_overlap,is_valid_time_split
+2025-07-01,2026-06-02,237,2026-06-04,2028-12-31,60,No,Pass
