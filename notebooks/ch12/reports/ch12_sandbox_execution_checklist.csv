@@ -1,0 +1,4 @@
+check_item,passed
+Network_Disabled,True
+ReadOnly_Input,True
+Allowlist_Output_Only,True

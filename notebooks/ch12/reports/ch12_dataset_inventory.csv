@@ -1,0 +1,5 @@
+dataset_name,rows,columns,status
+customers,1000,5,PASS
+orders,1000,4,PASS
+order_items,752,6,PASS
+products,50,3,PASS

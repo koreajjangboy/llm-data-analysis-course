@@ -1,0 +1,6 @@
+﻿check_item,description,status
+processed_context_only,원본(raw) 데이터가 아닌 전처리된(processed) 데이터 기반으로 수집되었는가?,PASS
+sensitive_column_names_hidden,민감한 컬럼명/개인정보가 은폐되거나 마스킹 처리되었는가?,PASS
+raw_value_examples_not_generated,컨텍스트 내에 원본 데이터 샘플/값 예시가 포함되지 않았는가?,PASS
+external_context_requires_human_review,외부 LLM 제공 전 데이터 보호 담당자의 사람 검토(Human Review)가 필요한가?,PASS
+prompt_injection_warning_present,프롬프트 인젝션 방지를 위한 필수 보안 경고문(Warning)이 포함되어 있는가?,PASS

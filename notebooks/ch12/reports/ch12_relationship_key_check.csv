@@ -1,0 +1,4 @@
+fk_column,parent_table,missing_parent_keys,initial_result
+orders.customer_id,customers,2,FAIL
+order_items.order_id,orders,2,FAIL
+order_items.product_id,products,26,FAIL

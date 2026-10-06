@@ -1,0 +1,8 @@
+axis,status
+schema_and_keys,FAIL
+aggregate_validation,WARNING
+ml_leakage,REVIEW
+static_scan,PASS
+sandbox_and_package,PASS
+human_approval,PENDING
+execution_decision,DO_NOT_EXECUTE

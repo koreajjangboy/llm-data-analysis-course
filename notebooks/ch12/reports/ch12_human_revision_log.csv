@@ -1,0 +1,2 @@
+initial_approved,decision,revised_by,action_taken,final_execution_approved
+False,REVISE -> APPROVE,Human Reviewer,Filter invalid FK rows (30 items) and add fillna('Unknown') for category sales,True

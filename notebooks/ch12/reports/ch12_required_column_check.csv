@@ -1,0 +1,5 @@
+table,column,exists,result
+orders,order_id,True,PASS
+orders,customer_id,True,PASS
+order_items,price,True,PASS
+order_items,quantity,True,PASS

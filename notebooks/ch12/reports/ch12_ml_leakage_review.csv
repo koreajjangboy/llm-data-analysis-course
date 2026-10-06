@@ -1,0 +1,5 @@
+feature_name,model_type,audit_status,reason
+payment_method,both,PASS,Safe prediction feature
+item_count,classification,REVIEW,Requires order creation timestamp verification
+total_quantity,classification,REVIEW,Requires order creation timestamp verification
+order_amount,classification,REVIEW,Requires order creation timestamp verification
