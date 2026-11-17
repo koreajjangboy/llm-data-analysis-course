@@ -1,0 +1,23 @@
+{
+  "stay": {
+    "params": {
+      "MobileOS": "ETC",
+      "MobileApp": "chapter14-1",
+      "_type": "json",
+      "baseYm": "202508",
+      "areaCd": "11",
+      "tarSjrnDsIxCd": "21"
+    }
+  },
+
+  "consumption": {
+    "params": {
+      "MobileOS": "ETC",
+      "MobileApp": "chapter14-1",
+      "_type": "json",
+      "baseYm": "202508",
+      "areaCd": "11",
+      "tarExpDsIxCd": "22"
+    }
+  }
+}
